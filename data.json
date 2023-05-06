@@ -1,0 +1,218 @@
+[
+  {
+    "name": "Mercury",
+    "distanceFromSun": "57.91 million km",
+    "orbitalPeriod": "87.97 Earth days",
+    "diameter": "4,879 km",
+    "mass": "3.30 x 10^23 kg",
+    "moons": 0,
+    "hasRings": false,
+    "discoveryYear": null,
+    "discoveredBy": null,
+    "temperature": "-173 °C to 427 °C",
+    "atmosphere": "Virtually no atmosphere",
+    "facts": [
+      "Mercury is the smallest planet in our solar system",
+      "It has the most extreme temperature swings of any planet in our solar system",
+      "A day on Mercury (the time it takes for one rotation) is longer than its year (the time it takes to complete one orbit around the Sun)"
+    ],
+    "details": {
+      "meanDensity": "5.427 g/cm³",
+      "surfaceGravity": "3.7 m/s²",
+      "escapeVelocity": "4.25 km/s",
+      "rotationPeriod": "58.65 Earth days",
+      "surfaceTemperature": "-173 °C to 427 °C",
+      "firstRecord": "14th century BC",
+      "recordedBy": "Assyrian astronomers"
+    }
+  },
+  {
+    "name": "Venus",
+    "distanceFromSun": "108.2 million km",
+    "orbitalPeriod": "224.7 Earth days",
+    "diameter": "12,104 km",
+    "mass": "4.87 x 10^24 kg",
+    "moons": 0,
+    "hasRings": false,
+    "discoveryYear": null,
+    "discoveredBy": null,
+    "temperature": "462 °C",
+    "atmosphere": "Primarily composed of carbon dioxide (96.5%) with nitrogen and trace amounts of other gases",
+    "facts": [
+      "Venus is the hottest planet in our solar system, with surface temperatures hot enough to melt lead",
+      "It has the longest day of any planet in our solar system, taking 243 Earth days to complete one rotation",
+      "Venus rotates in the opposite direction to most other planets in our solar system"
+    ],
+    "details": {
+      "meanDensity": "5.243 g/cm³",
+      "surfaceGravity": "8.87 m/s²",
+      "escapeVelocity": "10.36 km/s",
+      "rotationPeriod": "243 Earth days",
+      "surfaceTemperature": "462 °C",
+      "firstRecord": "2nd millennium BC",
+      "recordedBy": "Babylonian astronomers"
+    }
+  },
+  {
+    "name": "Earth",
+    "distanceFromSun": "149.6 million km",
+    "orbitalPeriod": "365.24 days",
+    "diameter": "12,742 km",
+    "mass": "5.97 x 10^24 kg",
+    "moons": 1,
+    "hasRings": false,
+    "discoveryYear": null,
+    "discoveredBy": null,
+    "temperature": "-89.2 °C to 56.7 °C",
+    "atmosphere": "Primarily composed of nitrogen (78%) and oxygen (21%) with trace amounts of other gases",
+    "facts": [
+      "Earth is the only known planet to support life",
+      "It has a magneticfield created by its iron core, which helps to protect the planet from harmful solar radiation",
+      "The highest point on Earth is Mount Everest, which stands at 8,848 meters above sea level"
+    ],
+    "details": {
+      "meanDensity": "5.514 g/cm³",
+      "surfaceGravity": "9.8 m/s²",
+      "escapeVelocity": "11.2 km/s",
+      "rotationPeriod": "23.93 hours",
+      "surfaceTemperature": "-89.2 °C to 56.7 °C",
+      "firstRecord": null,
+      "recordedBy": null
+    }
+  },
+  {
+    "name": "Mars",
+    "distanceFromSun": "227.9 million km",
+    "orbitalPeriod": "686.98 Earth days",
+    "diameter": "6,779 km",
+    "mass": "6.39 x 10^23 kg",
+    "moons": 2,
+    "hasRings": false,
+    "discoveryYear": null,
+    "discoveredBy": null,
+    "temperature": "-143 °C to 35 °C",
+    "atmosphere": "Primarily composed of carbon dioxide (95%) with nitrogen and argon",
+    "facts": [
+      "Mars is known as the Red Planet due to the iron oxide (rust) on its surface",
+      "It has the largest volcano (Olympus Mons) and the deepest canyon (Valles Marineris) in our solar system",
+      "Mars has a thin atmosphere, with a surface pressure only about 1% of Earth's"
+    ],
+    "details": {
+      "meanDensity": "3.9335 g/cm³",
+      "surfaceGravity": "3.71 m/s²",
+      "escapeVelocity": "5.03 km/s",
+      "rotationPeriod": "24.62 hours",
+      "surfaceTemperature": "-143 °C to 35 °C",
+      "firstRecord": "2nd millennium BC",
+      "recordedBy": "Egyptian astronomers"
+    }
+  },
+  {
+    "name": "Jupiter",
+    "distanceFromSun": "778.5 million km",
+    "orbitalPeriod": "11.86 Earth years",
+    "diameter": "139,822 km",
+    "mass": "1.90 x 10^27 kg",
+    "moons": 79,
+    "hasRings": true,
+    "discoveryYear": null,
+    "discoveredBy": null,
+    "temperature": "-145 °C",
+    "atmosphere": "Primarily composed of hydrogen (89%) and helium (10%) with trace amounts of other gases",
+    "facts": [
+      "Jupiter is the largest planet in our solar system",
+      "It has the most moons of any planet in our solar system",
+      "Jupiter's Great Red Spot is a massive storm that has been raging for at least 350 years"
+    ],
+    "details": {
+      "meanDensity": "1.326 g/cm³",
+      "surfaceGravity": "24.79 m/s²",
+      "escapeVelocity": "59.5 km/s",
+      "rotationPeriod": "9.93 hours",
+      "surfaceTemperature": "-145 °C",
+      "firstRecord": "7th or 8th century BC",
+      "recordedBy": "Babylonian astronomers"
+    }
+  },
+  {
+    "name": "Saturn",
+    "distanceFromSun": "1.43 billion km",
+    "orbitalPeriod": "29.46 Earth years",
+    "diameter": "116,460 km",
+    "mass": "5.69 x 10^26 kg",
+    "moons": 82,
+    "hasRings": true,
+    "discoveryYear": null,
+    "discoveredBy": null,
+    "temperature": "-178 °C",
+    "atmosphere": "Primarily composed of hydrogen (96%) with helium and trace amounts of other gases",
+    "facts": [
+      "Saturn is known for its prominent and extensive ring system, which is made up of ice particles",
+      "It has the second largest moon in our solar system, Titan, which is larger than the planet Mercury",
+      "Saturn has a hexagonal shaped weather pattern at its north pole"
+    ],
+    "details": {
+      "meanDensity": "0.687 g/cm³",
+      "surfaceGravity": "10.44 m/s²",
+      "escapeVelocity": "35.5 km/s",
+      "rotationPeriod": "10.8 hours",
+      "surfaceTemperature": "-178 °C",
+      "firstRecord": null,
+      "recordedBy": "Assyrians"
+    }
+  },
+  {
+    "name": "Uranus",
+    "distanceFromSun": "2.88 billion km",
+    "orbitalPeriod": "84.02 Earth years",
+    "diameter": "50,724 km",
+    "mass": "8.68 x 10^25 kg",
+    "moons": 27,
+    "hasRings": true,
+    "discoveryYear": "1781",
+    "discoveredBy": "William Herschel",
+    "temperature": "-224 °C",
+    "atmosphere": "Primarily composed of hydrogen (83%) and helium (15%) with trace amounts of other gases",
+    "facts": [
+      "Uranus is the first planet discovered using a telescope",
+      "It is tilted at an extreme angle, with its axis of rotation almost parallel to the plane of the solar system",
+      "Uranus has a very cold and windy atmosphere, with wind speeds reaching up to 900 km/h"
+    ],
+    "details": {
+      "meanDensity": "1.27 g/cm³",
+      "surfaceGravity": "8.69 m/s²",
+      "escapeVelocity": "21.3 km/s",
+      "rotationPeriod": "17.2 hours",
+      "surfaceTemperature": "-224 °C",
+      "firstRecord": "1781",
+      "recordedBy": "William Herschel"
+    }
+  },
+  {
+    "name": "Neptune",
+    "distanceFromSun": "4.5 billion km",
+    "orbitalPeriod": "164.79 Earth years",
+    "diameter": "49,244 km",
+    "mass": "1.02 x 10^26 kg",
+    "moons": 14,
+    "hasRings": true,
+    "discoveryYear": "1846",
+    "discoveredBy": "Urbain Le Verrier and Johann Galle",
+    "temperature": "-218 °C",
+    "atmosphere": "Primarily composed of hydrogen (80%) and helium (19%) with trace amounts of other gases",
+    "facts": [
+      "Neptune is the farthest planet from the sun in our solar system",
+      "It has the strongest winds of any planet in our solar system, with wind speeds reaching up to 2,100 km/h",
+      "Neptune was the first planet to be discovered through mathematical predictions rather than through direct observations"
+    ],
+    "details": {
+      "meanDensity": "1.638 g/cm³",
+      "surfaceGravity": "11.15 m/s²",
+      "escapeVelocity": "23.5 km/s",
+      "rotationPeriod": "16.1 hours",
+      "surfaceTemperature": "-218 °C",
+      "firstRecord": "1846",
+      "recordedBy": "Urbain Le Verrier and Johann Galle"
+    }
+  }
+]

@@ -12,6 +12,42 @@ datasource db {
 }
 
 model Planet {
-  id   String @id @default(cuid())
-  name String
+  id              String         @id @default(cuid())
+  name            String
+  distanceFromSun String
+  oribitalPeriod  String
+  diameter        String
+  mass            String
+  moons           Int
+  hasRings        Boolean
+  discoveryYear   String?
+  discoveredBy    String?
+  temperature     String
+  atmosphere      String
+  facts           PlanetFacts[]
+  details         PlanetDetails?
+}
+
+model PlanetFacts {
+  id       String @id @default(cuid())
+  planetId String
+  planet   Planet @relation(fields: [planetId], references: [id], onDelete: Cascade, onUpdate: NoAction)
+  fact     String
+
+  @@index([planetId], name: "planetId")
+}
+
+model PlanetDetails {
+  id                 String @id @default(cuid())
+  planet             Planet @relation(fields: [planetId], references: [id])
+  planetId           String @unique
+  meanDensity        String
+  surfaceGravity     String
+  escapeVelocity     String
+  rotationPeriod     String
+  surfaceTemperature String
+  firstRecorded      String
+  recordedBy         String
+
+  @@index([planetId], name: "planetId")
 }
