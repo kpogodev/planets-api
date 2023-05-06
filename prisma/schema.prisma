@@ -14,10 +14,10 @@ datasource db {
 model Planet {
   id               String         @id @default(cuid())
   name             String
-  distanceFromStar Decimal?
+  distanceFromStar Float?
   oribitalPeriod   Float?
   diameter         Float?
-  mass             Decimal?
+  mass             Float?
   moons            Int?
   hasRings         Boolean        @default(false)
   minTemperature   Int?
