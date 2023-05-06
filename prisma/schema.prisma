@@ -20,8 +20,8 @@ model Planet {
   mass             Float?
   moons            Int?
   hasRings         Boolean        @default(false)
-  minTemperature   Int?
-  maxTemperature   Int?
+  minTemperature   Float?
+  maxTemperature   Float?
   atmosphere       String?
   facts            PlanetFacts[]
   details          PlanetDetails?
