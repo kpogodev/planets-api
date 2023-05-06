@@ -34,33 +34,33 @@ The Planets API provides data about the planets in our solar system, including t
 
     [
 	    {
-		  "id": "clhc19fb30000obywkpn1y825",
-		  "name": "Mercury",
-		  "distanceFromStar": "57.91",
-		  "oribitalPeriod": 87.97,
-		  "diameter": 4879,
-		  "mass": "0.055",
-		  "moons": 0,
-		  "hasRings": false,
-		  "minTemperature": -173,
-		  "maxTemperature": 427,
-		  "atmosphere": "Virtually no atmosphere"
-			"facts": [
-				{
-					"id": "clhc1at2u0002obywkhcyn97l",
-					"planetId": "clhc19fb30000obywkpn1y825",
-					"fact": "Mercury is the smallest planet in our solar system"
-				},
-				{
-					"id": "clhc1bl690004obywhh55qeav",
-					"planetId": "clhc19fb30000obywkpn1y825",
-					"fact": "It has the most extreme temperature swings of any planet in our solar system"
-				},
-				{
-					"id": "clhc1c02d0006obyw48703yd7",
-					"planetId": "clhc19fb30000obywkpn1y825",
-					"fact": "A day on Mercury (the time it takes for one rotation) is longer than its year (the time it takes to complete one orbit around the Sun)"
-				}
-			]
+				"id": "clhc19fb30000obywkpn1y825",
+				"name": "Mercury",
+				"distanceFromStar": "57.91",
+				"oribitalPeriod": 87.97,
+				"diameter": 4879,
+				"mass": "0.055",
+				"moons": 0,
+				"hasRings": false,
+				"minTemperature": -173,
+				"maxTemperature": 427,
+				"atmosphere": "Virtually no atmosphere"
+				"facts": [
+					{
+						"id": "clhc1at2u0002obywkhcyn97l",
+						"planetId": "clhc19fb30000obywkpn1y825",
+						"fact": "Mercury is the smallest planet in our solar system"
+					},
+					{
+						"id": "clhc1bl690004obywhh55qeav",
+						"planetId": "clhc19fb30000obywkpn1y825",
+						"fact": "It has the most extreme temperature swings of any planet in our solar system"
+					},
+					{
+						"id": "clhc1c02d0006obyw48703yd7",
+						"planetId": "clhc19fb30000obywkpn1y825",
+						"fact": "A day on Mercury (the time it takes for one rotation) is longer than its year (the time it takes to complete one orbit around the Sun)"
+					}
+				]
 	    }
     ]
