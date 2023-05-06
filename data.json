@@ -2,7 +2,7 @@
   {
     "name": "Mercury",
     "distanceFromSun": "57.91 million km",
-    "orbitalPeriod": "87.97 Earth days",
+    "orbitalPeriod": "87.97 days",
     "diameter": "4,879 km",
     "mass": "3.30 x 10^23 kg",
     "moons": 0,
@@ -20,7 +20,7 @@
       "meanDensity": "5.427 g/cm³",
       "surfaceGravity": "3.7 m/s²",
       "escapeVelocity": "4.25 km/s",
-      "rotationPeriod": "58.65 Earth days",
+      "rotationPeriod": "58.65 days",
       "surfaceTemperature": "-173 °C to 427 °C",
       "firstRecord": "14th century BC",
       "recordedBy": "Assyrian astronomers"
@@ -29,7 +29,7 @@
   {
     "name": "Venus",
     "distanceFromSun": "108.2 million km",
-    "orbitalPeriod": "224.7 Earth days",
+    "orbitalPeriod": "224.7 days",
     "diameter": "12,104 km",
     "mass": "4.87 x 10^24 kg",
     "moons": 0,
@@ -40,14 +40,14 @@
     "atmosphere": "Primarily composed of carbon dioxide (96.5%) with nitrogen and trace amounts of other gases",
     "facts": [
       "Venus is the hottest planet in our solar system, with surface temperatures hot enough to melt lead",
-      "It has the longest day of any planet in our solar system, taking 243 Earth days to complete one rotation",
+      "It has the longest day of any planet in our solar system, taking 243 days to complete one rotation",
       "Venus rotates in the opposite direction to most other planets in our solar system"
     ],
     "details": {
       "meanDensity": "5.243 g/cm³",
       "surfaceGravity": "8.87 m/s²",
       "escapeVelocity": "10.36 km/s",
-      "rotationPeriod": "243 Earth days",
+      "rotationPeriod": "243 days",
       "surfaceTemperature": "462 °C",
       "firstRecord": "2nd millennium BC",
       "recordedBy": "Babylonian astronomers"
@@ -83,7 +83,7 @@
   {
     "name": "Mars",
     "distanceFromSun": "227.9 million km",
-    "orbitalPeriod": "686.98 Earth days",
+    "orbitalPeriod": "686.98 days",
     "diameter": "6,779 km",
     "mass": "6.39 x 10^23 kg",
     "moons": 2,
